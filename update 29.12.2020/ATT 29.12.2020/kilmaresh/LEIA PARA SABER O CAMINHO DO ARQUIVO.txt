@@ -1,0 +1,3 @@
+data/scripts/actions/quests/kilmaresh
+
+PS: Não substitua a pasta "Kilmaresh", apenas entre na pasta e substitua o arquivo "leverboss"

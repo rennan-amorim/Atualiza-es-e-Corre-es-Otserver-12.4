@@ -1,0 +1,7 @@
+	<!-- grave danger quest -->
+	<action actionid="888883" script="quests/grave_danger/baeloc_nictros.lua" />
+	<action actionid="888884" script="quests/grave_danger/count_vlarkorth.lua" />
+	<action actionid="888885" script="quests/grave_danger/duke_krule.lua" />
+	<action actionid="888886" script="quests/grave_danger/earl_osam.lua" />
+	<action actionid="888887" script="quests/grave_danger/lord_azaram.lua" />
+<!--	<action actionid="888888" script="quests/grave_danger/king_zelos.lua" /> -->
